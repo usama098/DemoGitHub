@@ -6,6 +6,6 @@ public class GitTest {
     }
 
 	public static void test() {
-		int a = 5;
+		int a = 56;
 	}
 }
